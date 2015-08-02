@@ -4,3 +4,4 @@ add one line
 git is a distrributed version control system.
 git is free software destributed under ths GPL.
 Git has mutable index called stage
+Git tracks changes.

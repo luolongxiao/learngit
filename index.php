@@ -1,9 +1,5 @@
 <?php
 
-echo 'hello word!+';
-<<<<<<< HEAD
-asdsadsadsadsadsa
-=======
-sadsadasdsadd
->>>>>>> dev
+echo 'hello word!+'; 
+asdsadsadsadsadsa  
 ?>
